@@ -65,6 +65,11 @@ a{
     right: 32px;
 }
 
+.container{
+    background-color: var(--accent-color);
+    padding: 100px 100px;
+}
+
 @media screen and (max-width: 768px) {
     .navbar{
         flex-direction: column;
